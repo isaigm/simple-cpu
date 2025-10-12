@@ -1,0 +1,7 @@
+Time resolution is 1 ps
+Note: --- Iniciando Testbench para Sistema CPU ---
+Time: 0 ps  Iteration: 0  Process: /tb_cpu_mission_1/stim_proc  File: C:/Users/isaig/relearning/relearning.srcs/sim_1/new/tb_cpu_mision_1.vhd
+Note: Cargando programa en RAM...
+Time: 0 ps  Iteration: 0  Process: /tb_cpu_mission_1/stim_proc  File: C:/Users/isaig/relearning/relearning.srcs/sim_1/new/tb_cpu_mision_1.vhd
+Note: Iniciando ejecución de la CPU...
+Time: 40 ns  Iteration: 0  Process: /tb_cpu_mission_1/stim_proc  File: C:/Users/isaig/relearning/relearning.srcs/sim_1/new/tb_cpu_mision_1.vhd
