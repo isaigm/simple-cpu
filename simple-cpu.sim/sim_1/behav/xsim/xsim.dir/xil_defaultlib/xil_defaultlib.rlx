@@ -1,0 +1,13 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+C:/Users/isaig/simple-cpu/simple-cpu.srcs/sim_1/new/tb_alu.vhd,1766955837,vhdl,,,,tb_alu,,,,,,,,
+C:/Users/isaig/simple-cpu/simple-cpu.srcs/sim_1/new/tb_cpu_mision_1.vhd,1766958921,vhdl,,,,tb_cpu_system,,,,,,,,
+C:/Users/isaig/simple-cpu/simple-cpu.srcs/sim_1/new/tb_program_counter.vhd,1766955837,vhdl,,,,tb_program_counter,,,,,,,,
+C:/Users/isaig/simple-cpu/simple-cpu.srcs/sources_1/new/alu.vhd,1766955837,vhdl,,,,alu,,,,,,,,
+C:/Users/isaig/simple-cpu/simple-cpu.srcs/sources_1/new/cpu_definitions_pkg.vhd,1766960895,vhdl,C:/Users/isaig/simple-cpu/simple-cpu.srcs/sim_1/new/tb_cpu_mision_1.vhd;C:/Users/isaig/simple-cpu/simple-cpu.srcs/sources_1/new/ram.vhd,,,cpu_definitions_pkg,,,,,,,,
+C:/Users/isaig/simple-cpu/simple-cpu.srcs/sources_1/new/cpu_mission_1.vhd,1766958914,vhdl,,,,cpu_mision_1,,,,,,,,
+C:/Users/isaig/simple-cpu/simple-cpu.srcs/sources_1/new/generic_register.vhd,1766955837,vhdl,,,,generic_register,,,,,,,,
+C:/Users/isaig/simple-cpu/simple-cpu.srcs/sources_1/new/program_counter.vhd,1766955837,vhdl,,,,program_counter,,,,,,,,
+C:/Users/isaig/simple-cpu/simple-cpu.srcs/sources_1/new/ram.vhd,1766958877,vhdl,,,,ram,,,,,,,,

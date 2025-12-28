@@ -1,0 +1,12 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../simple-cpu.srcs/sources_1/new/alu.vhd" \
+"../../../../simple-cpu.srcs/sources_1/new/cpu_definitions_pkg.vhd" \
+"../../../../simple-cpu.srcs/sources_1/new/cpu_mission_1.vhd" \
+"../../../../simple-cpu.srcs/sources_1/new/generic_register.vhd" \
+"../../../../simple-cpu.srcs/sources_1/new/program_counter.vhd" \
+"../../../../simple-cpu.srcs/sources_1/new/ram.vhd" \
+"../../../../simple-cpu.srcs/sim_1/new/tb_cpu_mision_1.vhd" \
+
+# Do not sort compile order
+nosort
